@@ -1,7 +1,7 @@
 {
   "name": "navanyms",
   "version": "1.0.0",
-  "description": "Shuffle between Navanyms!",
+  "description": "Simple function for shuffling between Navanyms",
   "main": "index.js",
   "repository": {
     "type": "git",

@@ -4,6 +4,12 @@ People who work at Nava are people first, but for fun sometimes we use a collect
 
 This is a simple JS function that shuffles through our favorite Navanyms/[Demonyms](https://en.m.wikipedia.org/wiki/Demonym)
 
+## Installation
+
+```
+npm install navanyms
+```
+
 ## Usage
 
 Example HTML:
