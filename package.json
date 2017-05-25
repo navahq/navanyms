@@ -1,0 +1,19 @@
+{
+  "name": "navanyms",
+  "version": "1.0.0",
+  "description": "Shuffle between Navanyms!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navahq/navanyms.git"
+  },
+  "keywords": [
+    "nava"
+  ],
+  "author": "Nava PBC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navahq/navanyms/issues"
+  },
+  "homepage": "https://github.com/navahq/navanyms#readme"
+}
