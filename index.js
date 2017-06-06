@@ -5,8 +5,8 @@
 var rootNoun = 'Nava';
 var navas = [
   'Navaardvarks',
-  'Navaboos',
   'Navaberries',
+  'Navaboos',
   'Navacados',
   'Navaguavas',
   'Navaknights',
