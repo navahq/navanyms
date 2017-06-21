@@ -1,6 +1,6 @@
 {
   "name": "navanyms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple function for shuffling between Navanyms",
   "main": "index.js",
   "repository": {

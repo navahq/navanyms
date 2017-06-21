@@ -19,16 +19,20 @@ var navas = [
   'Navanators',
   'Navanauts',
   'Navaneers',
+  'Navant-gardes',
   'Navanuggets',
+  'Navapreneurs',
   'Navaramas',
   'Navarinas',
   'Navarinos',
+  'Navarinxs',
   'Navaroos',
   'Navarugulas',
   'Navarwhals',
+  'Navasauri',
   'Navascholars',
   'Navatars',
-  'Navicorns'
+  'Navatinis'
 ];
 
 /**
