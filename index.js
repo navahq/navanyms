@@ -32,7 +32,8 @@ var navas = [
   'Navasauri',
   'Navascholars',
   'Navatars',
-  'Navatinis'
+  'Navatinis',
+  'Dave Navarros'
 ];
 
 /**
