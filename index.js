@@ -17,6 +17,7 @@ var navas = [
   'Navamons',
   'Navamamas',
   'Navanados',
+  'Navagators',
   'Navanators',
   'Navanauts',
   'Navaneers',
