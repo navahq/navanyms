@@ -7,7 +7,6 @@ var navas = [
   'Navaardvarks',
   'Navaberries',
   'Navaboos',
-  'Navabot',
   'Navacados',
   'Navactopi',
   'Navactopodes',
@@ -43,7 +42,7 @@ var navas = [
   'Navasauri',
   'Navascholars',
   'Navatars',
-  'Navatinis' 
+  'Navatinis'
 ];
 
 /**
